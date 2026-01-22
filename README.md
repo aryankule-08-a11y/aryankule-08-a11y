@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Aryan+Kule+%F0%9F%91%8B;Data+Analyst+%7C+Python+Dev;Transforming+Data+into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Aryan+Kule+%F0%9F%91%8B;  Data+Analyst+%7C+ Python+Dev;   Transforming+Data+into+Insights " alt="Typing SVG" />
 
 <h3 align="center">📍   Data Science Student |    Python Enthusiast |   Open Source</h3>
 
