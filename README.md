@@ -6,11 +6,11 @@
 <br/>
 
 <!-- Typing Animation Hero -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aryan+🚀;Turning+Data+into+Impact+✨;Aspiring+Data+Analyst+📊;Problem+Solver+%26+Storyteller+📈" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aryan+🚀;Turning+Data+into+Impact+✨;Aspiring+Data+Analyst+📊;Problem+Solver+%26+Storyteller+📈" alt="Typing Animation" />
 
 ### Transforming raw numbers into meaningful stories. 📈
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankule)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kule-176a17351)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankule08@gmail.com)
 
 </div>
