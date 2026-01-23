@@ -1,0 +1,19 @@
+# Frontend
+Data_Refinery/frontend/node_modules/
+Data_Refinery/frontend/.next/
+Data_Refinery/frontend/out/
+Data_Refinery/frontend/build/
+Data_Refinery/frontend/.env*
+Data_Refinery/frontend/npm-debug.log*
+Data_Refinery/frontend/yarn-debug.log*
+Data_Refinery/frontend/yarn-error.log*
+
+# Backend
+Data_Refinery/backend/venv/
+Data_Refinery/backend/__pycache__/
+Data_Refinery/backend/*.pyc
+Data_Refinery/backend/.pytest_cache/
+Data_Refinery/backend/.env
+
+# Dataset
+Data_Refinery/frontend/public/sample_data.csv
